@@ -1,1 +1,2 @@
 add 1.txt
+git ? to replace git checkout --
